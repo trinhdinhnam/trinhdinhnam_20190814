@@ -1,0 +1,14 @@
+{
+    "name": "trinhdinhnam/z_20190814",
+    "description": "Day la du an cua nam",
+    "authors": [
+        {
+            "name": "Trinhdinhnam",
+            "email": "trinhdinhnam16898@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "monolog/monolog": "^1.24"
+    }
+}
